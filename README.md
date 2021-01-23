@@ -4,6 +4,9 @@ A software engineer passionate about Software Development :computer:. I like cod
 
 🔭 I’m currently working on MFEC Public Company Limited
 
+:airplane: My skills
+- React (Nextjs), Redux, nodejs, docker
+
 📫 How to reach me
 -  <a href='mailto:paphob.a@gmail.com'>:email:<a/>
 
